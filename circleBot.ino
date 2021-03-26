@@ -3,8 +3,8 @@
 #include <HTTPClient.h>
 #define USE_SERIAL Serial
 
-const char *ssid_Router = "McGruber 2";
-const char *password_Router = "squishy6";
+const char *ssid_Router = "********";
+const char *password_Router = "********";
 
 String address= "http://165.227.76.232:3000/jth2165/running";
 
